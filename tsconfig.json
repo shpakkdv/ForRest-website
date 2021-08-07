@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "jsx": "react",
+    "lib": [
+      "es2017",
+      "dom",
+      "dom.iterable"
+    ],
+
+    "noUnusedLocals": true,
+    "noImplicitAny": true,
+    "preserveConstEnums": true,
+    "removeComments": true,
+    "sourceMap": true,
+
+    "baseUrl": "./src"
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

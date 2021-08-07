@@ -1,0 +1,10 @@
+{
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "files.trimTrailingWhitespace": true,
+  "eslint.enable": false,
+  "cSpell.words": [
+    "certificates",
+    "gmail",
+    "lesdozor"
+  ]
+}
